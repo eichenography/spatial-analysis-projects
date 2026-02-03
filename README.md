@@ -16,6 +16,7 @@ With a PhD in Geography and experience teaching GIS, I combine technical skills 
 ## Current Focus
 
 Building a portfolio of Python-based GIS projects that demonstrate:
+
 - Interactive web mapping (Folium, Leaflet)
 - Spatial data analysis (GeoPandas, pandas)
 - Workflow automation and reproducible research
@@ -23,7 +24,30 @@ Building a portfolio of Python-based GIS projects that demonstrate:
 
 ## Projects
 
-*Portfolio projects coming soon - check back for updates!*
+### 1. Humboldt Neighborhood Business Map
+An interactive web map of non-residential properties in Portland's Humboldt Neighborhood, built to support the neighborhood association's business outreach efforts.
+
+- **What it does:** "Maps and classifies 396 non-residential properties by zoning type using Portland's open data"
+- **Tools:** Python, GeoPandas, Folium, QGIS
+- **Live Demo:** [Interactive Map](https://eichenography.github.io/spatial-analysis-projects/humboldt_businesses_interactive.html)
+- **Blog Post:** [From QGIS to Python: Recreating My Neighborhood Map](https://www.linkedin.com/posts/joshua-eichen_my-neighborhood-needed-to-identify-local-activity-7424470496722972672-nxsV)
+- **Files:**
+  - `humboldt_neighborhood_map.py` - Main interactive map script
+  - `data_exploration.py` - Data exploration and analysis
+
+---
+
+## Skills
+
+**GIS & Mapping:** QGIS, ArcGIS, Folium, spatial analysis, cartography  
+**Programming:** Python (GeoPandas, Folium, pandas, matplotlib)  
+**Data:** Open data, ETL, data cleaning, spatial joins  
+**Communication:** Technical training, data visualization, stakeholder engagement
+
+## Connect
+
+- LinkedIn: [Joshua Eichen](https://www.linkedin.com/in/joshua-eichen/)
+- Location: Portland, OR (open to remote work)
 
 ---
 
