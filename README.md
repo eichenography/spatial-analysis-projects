@@ -39,7 +39,8 @@ An interactive web map of non-residential properties in Portland's Humboldt Neig
 - Connected 222 verified businesses from Oregon's business registry to neighborhood properties
 - Built a modular 3-script pipeline: download → match → deduplicate
 - Used fuzzy matching (TheFuzz library) to resolve business name variations and eliminate duplicates
-- Blog Post: [How I Connected 222 Businesses to Our Neighborhood Map](link-to-post)
+- Live Demo: [Interactive Map](https://eichenography.github.io/spatial-analysis-projects/humboldt_business_map.html)
+- Blog Post: [How I Connected 222 Businesses to Our Neighborhood Map](https://www.linkedin.com/pulse/how-i-connected-222-businesses-our-neighborhood-map-joshua-eichen-kdlwe/?trackingId=iHukPRRp7YzRASkWkMxNnA%3D%3D)
 
 **How to Run the Analysis**
 
